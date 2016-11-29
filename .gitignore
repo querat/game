@@ -1,0 +1,7 @@
+# Emacs tmp files
+#*#
+*~
+
+# executable and binaries
+/build
+*.o
